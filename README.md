@@ -17,8 +17,9 @@ wind_speed (m/s), wind dir_sonic (degree), are wind speed and direction
 obukhov (m), zeta (arb), rou (m), sigmaw_ustar (arb), are Obuhkov length, stability parameter, roughness
 Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m)
 ### 3.1.2 The energy budget 
+20180101_20180207_SSR.txt; 20180101_20180207_ESR.txt
 
-## 3.1.3 The empirical equations
+### 3.1.3 The empirical equations
 20171201_20180210_Novo.txt; 20191201_20200131_Novo.txt: the synopic records at Novo meteorological site
 WMO ID 89512: http://www.nerc-bas.ac.uk/icd/gjma/novol.temps.html
 Data format by columns: number;Dates_Times;Air_temperature;Soil_Temperature;Relative_Humidity;Atmospheric_pressure;Wind_speed;Incoming_solar_radiation
