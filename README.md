@@ -9,13 +9,16 @@ u_starr (m/s), taur Kg(m s^2) are u_star and momentum flux
 Hcr (W/m^2) is a sensible heat flux humidity 
 LE_wplr (W/m^2), is a latent heat flux 
 Evap (L/m^2) is an evaporation by Potes M.
-Fc_wplr (mg/(m^2 s)), Fc_wpl_umol (umol/(m^2 s)), is carbon flux with WPL correction, mg/(m^2 s) and umol/(m^2 s)
-CO2_conc (mg/m^3), CO2_PPM (PPM), CO2_sig_str (arb), are CO2 concentration (two unit) and the Irgason’s signal strength 
-H2O_conc (g/m^3), H2O_sig_str (arb), are H2O concentration and the Irgason’s signal strength 
-Temp_amb (C), Amb_Press (kPa), are ambient air temperature and atmospheric pressure
-wind_speed (m/s), wind dir_sonic (degree), are wind speed and direction
-obukhov (m), zeta (arb), rou (m), sigmaw_ustar (arb), are Obuhkov length, stability parameter, roughness
-Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m)
+Fc_wplr (mg/(m^2 s)), Fc_wpl_umol (umol/(m^2 s)), is carbon flux with WPL correction, mg/(m^2 s) and umol/(m^2 s);
+CO2_conc (mg/m^3), CO2_PPM (PPM), CO2_sig_str (arb), are CO2 concentration (two unit) and the Irgason’s signal strength; 
+H2O_conc (g/m^3), H2O_sig_str (arb), are H2O concentration and the Irgason’s signal strength; 
+Temp_amb (C), Amb_Press (kPa), are ambient air temperature and atmospheric pressure;
+wind_speed (m/s), wind dir_sonic (degree), are wind speed and direction;
+obukhov (m), zeta (arb), rou (m), sigmaw_ustar (arb), are Obuhkov length, stability parameter, roughness;
+Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m).
+References: Potes M., Salgado R., Costa M.J., Morais M., Bortoli D., Kostadinov I. and Mammarella I. (2017) Lake–atmosphere interactions at Alqueva reservoir: a case study in the summer of 2014, Tellus A: Dynamic Meteorology and Oceanography, 69:1, DOI: 10.1080/16000870.2016.1272787 
+Shevnina, E. (2019). 3D wind speed and CO2/H20 concentration measurements collected during austral summer 2017/2018 over an ice free surface of a shallow lake located in the Schirmacher oasis, East Antarctica. [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3469570 
+
 ### 3.1.2 The energy budget 
 20180101_20180207_SSR.txt; 20180101_20180207_ESR.txt
 
