@@ -19,10 +19,10 @@ Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m).
 References: Potes M., Salgado R., Costa M.J., Morais M., Bortoli D., Kostadinov I. and Mammarella I. (2017) Lake–atmosphere interactions at Alqueva reservoir: a case study in the summer of 2014, Tellus A: Dynamic Meteorology and Oceanography, 69:1, DOI: 10.1080/16000870.2016.1272787; Shevnina, E. (2019). 3D wind speed and CO2/H20 concentration measurements collected during austral summer 2017/2018 over an ice free surface of a shallow lake located in the Schirmacher oasis, East Antarctica. [Data set]. Zenodo. DOI: 10.5281/zenodo.3469570 
 
 ### 3.1.2 The energy budget 
-20180101_20180207_SSR.txt; 20180101_20180207_ESR.txt
+20180101_20180207_SSR.txt; 20180101_20180207_ESR.txt is not yet included.
 
 ### 3.1.3 The empirical equations
-20171201_20180210_Novo.txt; 20191201_20200131_Novo.txt: the synopic records at Novo meteorological site
-WMO ID 89512: http://www.nerc-bas.ac.uk/icd/gjma/novol.temps.html
+20171201_20180210_Novo.txt; 20191201_20200131_Novo.txt: the meteorological records at Novo site
+WMO ID 89512. the long term climatology at the site is given here: http://www.nerc-bas.ac.uk/icd/gjma/novol.temps.html
 Data format by columns: number;Dates_Times;Air_temperature;Soil_Temperature;Relative_Humidity;Atmospheric_pressure;Wind_speed;Incoming_solar_radiation
 The records are provided by the Arctic Antarctic Research Institute for the period of December–February 2017–2018 and 2019–2020)
