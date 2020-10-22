@@ -1,6 +1,13 @@
-# Lake-land-locked
-## List of the supplemens
-### 3.1.1 The eddy covariance
+# Lake-land-locked lakes in the Schimacher oasis
+# Lake Priyadarshini / Zub
+Data collected by the Indian Expedition in 2018 includes the measurement covering the period of 01.01.2018 to 15.12.2018. Water levels/stages (temperature and conductivity ?) were measured with the level logger described here https://www.solinst.com/products/dataloggers-and-telemetry/3001-levelogger-series/levelogger/
+The logger was installed on the pumping station on the depth od 3.96 m to record the barometric pressure with the frequency of 30 min. The avsolute heigth of water level/stage was evaluated from geodesic measurements... 
+Also, the following  meteorological parameters were measured at the meteosite of Maitri station: air temperature, relative humidity, wind speed and direction and precipitation. 
+
+#Lake 
+
+## List of the supplemens 
+### 3.1.1 The eddy covariance experiment 2018 (evaporation over ice-free water table of Lake Priyadarshini).
 20180101_20180207_EC_FLUX.txt; XXX_EC_FLUX.txt: the post-processed data on the fluxes collected during austral summer 2017/2018 in the Schirmacher oasis, East Antarctica (Shevnina, 2019). This data set includes measurements collected by the integrated CO2 and H2O open-path gas analyzer and 3-D sonic anemometer (Irgason by Campbell Scientific. The Irgason is measured an absolute carbon dioxide and water vapor densities, three-dimensional wind speed, sonic air temperature, air temperature and barometric pressure (auxiliary sensor). The auxiliary sensors are Vaisala PTB110 as an optional enhanced barometer, and temperature sensor by Beta Therm 100K6A1A Thermistor. The post-processing procedure is described in Potes et al., (2017).
 List of the variables in the dataset:
 Date Time, is the time stamp (TS) with the format “yy/mm/dd HH:MM:SS”
