@@ -4,7 +4,8 @@ Data collected by the Indian Expedition in 2018 includes the measurement coverin
 The logger was installed on the pumping station on the depth od 3.96 m to record the barometric pressure with the frequency of 30 min. The avsolute heigth of water level/stage was evaluated from geodesic measurements... 
 Also, the following  meteorological parameters were measured at the meteosite of Maitri station: air temperature, relative humidity, wind speed and direction and precipitation. 
 
-#Lake 
+# Evaporation
+
 
 ## List of the supplemens 
 ### 3.1.1 The eddy covariance experiment 2018 (evaporation over ice-free water table of Lake Priyadarshini).
