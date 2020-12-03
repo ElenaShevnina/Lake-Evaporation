@@ -1,6 +1,6 @@
 # Mass (water) balance of polar lakes: epiglacial type lakes in the Schimacher oasis
 # Lake Priyadarshini / Zub: type A, glaciation fracion of watershed is less than 50%
-Data collected by the Indian Expedition in 2018 includes the measurement covering the period of 01.01.2018 to 15.12.2018. Water levels/stages (temperature and conductivity ?) were measured with the level logger described here https://www.solinst.com/products/dataloggers-and-telemetry/3001-levelogger-series/levelogger/
+Dhote et al., 2020: Data collected by the Indian Expedition in 2018 includes the measurement covering the period of 01.01.2018 to 15.12.2018. Water levels/stages (temperature and conductivity ?) were measured with the level logger described here https://www.solinst.com/products/dataloggers-and-telemetry/3001-levelogger-series/levelogger/
 The logger was installed on the pumping station on the depth od 3.96 m to record the barometric pressure with the frequency of 30 min. The avsolute heigth of water level/stage was evaluated from geodesic measurements... 
 Also, the following  meteorological parameters were measured at the meteosite of Maitri station: air temperature, relative humidity, wind speed and direction and precipitation. 
 
