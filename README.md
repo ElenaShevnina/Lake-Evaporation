@@ -5,7 +5,8 @@ The logger was installed on the pumping station on the depth od 3.96 m to record
 Also, the following  meteorological parameters were measured at the meteosite of Maitri station: air temperature, relative humidity, wind speed and direction and precipitation. 
 
 # Evaporation
-
+Boisvert et al. 2015: "the local moisture flux from the surface (i.e., evaporation) in the Arctic is estimated to provide only about 10% of the total column water vapor on a yearly basis."
+Boisvert, L. N., D. L. Wu, and C.-L. Shie, 2015: Increasing evaporation amounts seen in the Arctic between 2003 and 2013 from AIRS data. J. Geophys. Res. Atmos., 120, 6865–6881, https://doi.org/10.1002/2015JD023258.
 
 ## List of the supplemens 
 ### 3.1.1 The eddy covariance experiment 2018 (evaporation over ice-free water table of Lake Priyadarshini).
