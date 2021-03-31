@@ -1,5 +1,5 @@
 # Mass (water) balance of polar lakes: epiglacial type lakes in the Schimacher oasis
-# Lake Priyadarshini / Zub: type A, glaciation fracion of watershed is less than 30%
+# Lake Priyadarshini / Zub: type A, glaciation fraction of watershed is less than 30%
 Dhote et al., 2020: Data collected by the Indian Expedition in 2018 includes the measurement covering the period of 01.01.2018 to 15.12.2018. Water levels/stages (temperature and conductivity ?) were measured with the level logger described here https://www.solinst.com/products/dataloggers-and-telemetry/3001-levelogger-series/levelogger/
 The logger was installed on the pumping station on the depth od 3.96 m to record the barometric pressure with the frequency of 30 min. The avsolute heigth of water level/stage was evaluated from geodesic measurements... 
 Also, the following  meteorological parameters were measured at the meteosite of Maitri station: air temperature, relative humidity, wind speed and direction and precipitation. 
@@ -27,9 +27,11 @@ obukhov (m), zeta (arb), rou (m), sigmaw_ustar (arb), are Obuhkov length, stabil
 Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m).
 References: Potes M., Salgado R., Costa M.J., Morais M., Bortoli D., Kostadinov I. and Mammarella I. (2017) Lake–atmosphere interactions at Alqueva reservoir: a case study in the summer of 2014, Tellus A: Dynamic Meteorology and Oceanography, 69:1, DOI: 10.1080/16000870.2016.1272787; Shevnina, E. (2019). 3D wind speed and CO2/H20 concentration measurements collected during austral summer 2017/2018 over an ice free surface of a shallow lake located in the Schirmacher oasis, East Antarctica. [Data set]. Zenodo. DOI: 10.5281/zenodo.3469570 
 
-### 3.1.2 The energy budget
-
-
+### 3.1.2 The bulk mass transfer method (?)
+MTC.CSV : The data include the daily time series of the air temperature (at, C), wind speed (ws, ms-1), atmosheric pressure (ap, Pa) and H2O concentration (h2o, g sm-3). These variables are measured at height of 2 m, and I have used them to calulate the specific humidity (sp, Pa):
+SP = R*H2O*(AT+273.15)/P
+where R=287.05 is the universal gas constant for a dry air (J kg-1 K-1); AT is the air temperature (C); H2O is water vapor concentration (g sm-3); P is the barometric pressure, (Pa). Also, the daily series of the lake surface temperature (lwt, C) are included. 
+MTC_30min.csv: 30 min series of air temperature, wind speed, specific humidity, h2o concentration.... 
 
 ### 3.1.3 The empirical equations
 20171201_20180210_Novo.txt; 20191201_20200131_Novo.txt are 1 minute meteorological records collected by he Milos station at Novo site
