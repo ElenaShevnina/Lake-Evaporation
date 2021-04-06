@@ -33,6 +33,9 @@ SP = R*H2O*(AT+273.15)/P
 where R=287.05 is the universal gas constant for a dry air (J kg-1 K-1); AT is the air temperature (C); H2O is water vapor concentration (g sm-3); P is the barometric pressure, (Pa). Also, the daily series of the lake surface temperature (lwt, C) are included. 
 MTC_30min.csv: 30 min series of air temperature, wind speed, specific humidity, h2o concentration.... 
 
+J. Launiainen and T. Vihma, 1990: Derivation of turbulent surface fluxes — An iterative flux-profile method allowing arbitrary observing heights, Environmental Software, 5,3, 113-114. https://doi.org/10.1016/0266-9838(90)90021-W
+
+
 ### 3.1.3 The empirical equations
 20171201_20180210_Novo.txt; 20191201_20200131_Novo.txt are 1 minute meteorological records collected by he Milos station at Novo site
 WMO ID 89512. The long term climatology at the site is given here: http://www.nerc-bas.ac.uk/icd/gjma/novol.temps.html
