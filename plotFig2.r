@@ -1,6 +1,6 @@
 #!/usr/bin/Rscript
 
-# The supplement to Shevnina et al., 2020
+# The supplement to Shevnina et al., 2021
 # Fig. 2. Wind direction and frequency of wind speed anomalies (according to 6 hour synoptic records of Novo meteo site).
 args<-commandArgs(TRUE)
 
