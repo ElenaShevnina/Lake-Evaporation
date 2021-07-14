@@ -34,5 +34,8 @@ Data format by the columns: number;Dates_Times;Air_temperature;Soil_Temperature;
 The records are provided by the Arctic Antarctic Research Institute for the period of December–February 2017–2018 and 2019–2020.
 Termo7_iButton2141.csv is the measured water temperature on Lake Zub/Priyadarshini, experiment 2017-2018.
 
+### The Maitri site meteorological observations (P. Dhote and P. Thakur)
+
+### Code for the calculations
 
 
