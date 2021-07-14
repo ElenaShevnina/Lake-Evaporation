@@ -1,16 +1,10 @@
-# Mass (water) balance of polar lakes: epiglacial type lakes in the Schimacher oasis
-# Lake Priyadarshini / Zub: type A, glaciation fraction of watershed is less than 30%
-Dhote et al., 2020: Data collected by the Indian Expedition in 2018 includes the measurement covering the period of 01.01.2018 to 15.12.2018. Water levels/stages (temperature and conductivity ?) were measured with the level logger described here https://www.solinst.com/products/dataloggers-and-telemetry/3001-levelogger-series/levelogger/
-The logger was installed on the pumping station on the depth od 3.96 m to record the barometric pressure with the frequency of 30 min. The avsolute heigth of water level/stage was evaluated from geodesic measurements... 
-Also, the following  meteorological parameters were measured at the meteosite of Maitri station: air temperature, relative humidity, wind speed and direction and precipitation. 
-
-# Evaporation
-Boisvert et al. 2015: "the local moisture flux from the surface (i.e., evaporation) in the Arctic is estimated to provide only about 10% of the total column water vapor on a yearly basis."
-Boisvert, L. N., D. L. Wu, and C.-L. Shie, 2015: Increasing evaporation amounts seen in the Arctic between 2003 and 2013 from AIRS data. J. Geophys. Res. Atmos., 120, 6865–6881, https://doi.org/10.1002/2015JD023258.
+# Mass/Water balance of glacial lakes: epiglacial type lakes
+# type A, glaciation fraction of watershed is less than 30%
+A case of Lake Priyadarshini / Zub located in the Schimacher oasis (SA), East Antarctica
 
 ## List of the supplemens 
-### 3.1.1 The eddy covariance experiment 2018 (evaporation over ice-free water table of Lake Priyadarshini).
-20180101_20180207_EC_FLUX.txt; XXX_EC_FLUX.txt: the post-processed data on the fluxes collected during austral summer 2017/2018 in the Schirmacher oasis, East Antarctica (Shevnina, 2019). This data set includes measurements collected by the integrated CO2 and H2O open-path gas analyzer and 3-D sonic anemometer (Irgason by Campbell Scientific. The Irgason is measured an absolute carbon dioxide and water vapor densities, three-dimensional wind speed, sonic air temperature, air temperature and barometric pressure (auxiliary sensor). The auxiliary sensors are Vaisala PTB110 as an optional enhanced barometer, and temperature sensor by Beta Therm 100K6A1A Thermistor. The post-processing procedure is described in Potes et al., (2017).
+### The eddy covariance experiment 2018 (M. Potes)
+20180101_20180207_EC_FLUX.txt is the post-processed data on the fluxes collected during austral summer 2017/2018 in the Schirmacher oasis, East Antarctica (Shevnina, 2019). This data set includes measurements collected by the integrated CO2 and H2O open-path gas analyzer and 3-D sonic anemometer (Irgason by Campbell Scientific. The Irgason is measured an absolute carbon dioxide and water vapor densities, three-dimensional wind speed, sonic air temperature, air temperature and barometric pressure (auxiliary sensor). The auxiliary sensors are Vaisala PTB110 as an optional enhanced barometer, and temperature sensor by Beta Therm 100K6A1A Thermistor. The post-processing procedure is described in Potes et al., (2017).
 List of the variables in the dataset:
 Date Time, is the time stamp (TS) with the format “yy/mm/dd HH:MM:SS”
 npoints, is number of measurements
@@ -25,24 +19,20 @@ Temp_amb (C), Amb_Press (kPa), are ambient air temperature and atmospheric press
 wind_speed (m/s), wind dir_sonic (degree), are wind speed and direction;
 obukhov (m), zeta (arb), rou (m), sigmaw_ustar (arb), are Obuhkov length, stability parameter, roughness;
 Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m).
-References: Potes M., Salgado R., Costa M.J., Morais M., Bortoli D., Kostadinov I. and Mammarella I. (2017) Lake–atmosphere interactions at Alqueva reservoir: a case study in the summer of 2014, Tellus A: Dynamic Meteorology and Oceanography, 69:1, DOI: 10.1080/16000870.2016.1272787; Shevnina, E. (2019). 3D wind speed and CO2/H20 concentration measurements collected during austral summer 2017/2018 over an ice free surface of a shallow lake located in the Schirmacher oasis, East Antarctica. [Data set]. Zenodo. DOI: 10.5281/zenodo.3469570 
 
-### 3.1.2 The bulk mass transfer method (?)
+
+### The bulk mass transfer method (T. Vihma)
 MTC.CSV : The data include the daily time series of the air temperature (at, C), wind speed (ws, ms-1), atmosheric pressure (ap, Pa) and H2O concentration (h2o, g sm-3). These variables are measured at height of 2 m, and I have used them to calulate the specific humidity (sp, Pa):
 SP = R*H2O*(AT+273.15)/P
 where R=287.05 is the universal gas constant for a dry air (J kg-1 K-1); AT is the air temperature (C); H2O is water vapor concentration (g sm-3); P is the barometric pressure, (Pa). Also, the daily series of the lake surface temperature (lwt, C) are included. 
 MTC_30min.csv: 30 min series of air temperature, wind speed, specific humidity, h2o concentration.... 
 
-J. Launiainen and T. Vihma, 1990: Derivation of turbulent surface fluxes — An iterative flux-profile method allowing arbitrary observing heights, Environmental Software, 5,3, 113-114. https://doi.org/10.1016/0266-9838(90)90021-W
-
-
-### 3.1.3 The empirical equations
+### The empirical equations (E.Shevnina)
 20171201_20180210_Novo.txt; 20191201_20200131_Novo.txt are 1 minute meteorological records collected by he Milos station at Novo site
 WMO ID 89512. The long term climatology at the site is given here: http://www.nerc-bas.ac.uk/icd/gjma/novol.temps.html
 Data format by the columns: number;Dates_Times;Air_temperature;Soil_Temperature;Relative_Humidity;Atmospheric_pressure;Wind_speed;Incoming_solar_radiation
 The records are provided by the Arctic Antarctic Research Institute for the period of December–February 2017–2018 and 2019–2020.
-
 Termo7_iButton2141.csv is the measured water temperature on Lake Zub/Priyadarshini, experiment 2017-2018.
-Termo7_iButtons8341.csv is the water temperature measured on Lake Glubokoe, experiment 2019-2020. 
+
 
 
