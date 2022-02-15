@@ -36,6 +36,11 @@ Termo7_iButton2141.csv is the measured water temperature on Lake Zub/Priyadarshi
 
 ### The Maitri site meteorological observations (P. Dhote and P. Thakur)
 
-### Code for the calculations
 
+
+Bellagamba, A. W., Berkelhammer,  M., Winslow, L., Doran, P. T., Myers,  K. F., Devlin, S. , Hawes, I.: The magnitude and climate sensitivity of isotopic fractionation from ablation of Antarctic Dry Valley lakes, Arctic, Antarctic, and Alpine Research, 53:1, 352-371, DOI: 10.1080/15230430.2021.2001899, 2021. 
+
+Box, J. E., Steffen, K.: Sublimation on the Greenland Ice sheet from automated weather station observations. Journal of Geophysical Research: Atmospheres 106 (D24):33965–81, 2001
+
+Gat, J.R., Gonfiantini, R. (Eds): Stable isotope hydrology, Deuterium and oxygen-18 in the water cycle, International Atomic Energy Agency, Vienna, 356 p.,  1981.
 
