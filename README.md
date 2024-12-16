@@ -1,10 +1,12 @@
-# Mass/Water balance of glacial lakes: epiglacial type lakes
-# type A, glaciation fraction of watershed is less than 30%
-A case of Lake Priyadarshini / Zub located in the Schimacher oasis (SA), East Antarctica
+# Mass/Water balance of (glacial) lakes: two glacial lakes in the Schimacher oasis (SA), East Antarctica
+
+# the evaporation (day-by-day, seasonal)
+
+Lake Priyadarshini / Zub (2017-2018) and Lake Glubokoe (2019-2020)
 
 ## List of the supplemens 
-### The eddy covariance experiment 2018 (M. Potes)
-20180101_20180207_EC_FLUX.txt is the post-processed data on the fluxes collected during austral summer 2017/2018 in the Schirmacher oasis, East Antarctica (Shevnina, 2019). This data set includes measurements collected by the integrated CO2 and H2O open-path gas analyzer and 3-D sonic anemometer (Irgason by Campbell Scientific. The Irgason is measured an absolute carbon dioxide and water vapor densities, three-dimensional wind speed, sonic air temperature, air temperature and barometric pressure (auxiliary sensor). The auxiliary sensors are Vaisala PTB110 as an optional enhanced barometer, and temperature sensor by Beta Therm 100K6A1A Thermistor. The post-processing procedure is described in Potes et al., (2017).
+### The eddy covariance: experiments in 2018 and in 2019 (M. Potes)
+20180101_20180207_EC_FLUX.txt and 20191207_20200108_EC_FLUX.txt are the raw data on the fluxes collected during two austral summers (Dec-Feb) 2017-2018 and 2019-2020 with the EC system instaled on the shore on the lakes in the Schirmacher oasis, East Antarctica. This data set includes measurements collected by the integrated CO2 and H2O open-path gas analyzer and 3-D sonic anemometer (Irgason by Campbell Scientific. The Irgason is measured an absolute carbon dioxide and water vapor densities, three-dimensional wind speed, sonic air temperature, air temperature and barometric pressure (auxiliary sensor). The auxiliary sensors are Vaisala PTB110 as an optional enhanced barometer, and temperature sensor by Beta Therm 100K6A1A Thermistor. The post-processing procedure is described in Potes et al., (2017).
 List of the variables in the dataset:
 Date Time, is the time stamp (TS) with the format “yy/mm/dd HH:MM:SS”
 npoints, is number of measurements
