@@ -1,4 +1,4 @@
-# Mass/Water balance of (glacial) lakes: two glacial lakes in the Schimacher oasis (SA), East Antarctica
+# Lake Mass/Water balance: two glacial lakes in the Schimacher oasis (SA), East Antarctica
 
 # the evaporation (day-by-day, seasonal)
 
