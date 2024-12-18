@@ -1,13 +1,13 @@
 # Lake Mass/Water balance: two glacial lakes in the Schimacher oasis (SA), East Antarctica
 
-# the evaporation (day-by-day, seasonal)
+# Evaporation (day-by-day, seasonal)
 
 Lake Priyadarshini / Zub (2017-2018) and Lake Glubokoe (2019-2020)
 
-## List of the supplemens 
-### The eddy covariance: experiments in 2018 and in 2019 (M. Potes)
+## Supplement: Data 
+### The eddy covariance (experiments in 2018 and in 2019). M. Potes
 20180101_20180207_EC_FLUX.txt and 20191207_20200108_EC_FLUX.txt are the raw data on the fluxes collected during two austral summers (Dec-Feb) 2017-2018 and 2019-2020 with the EC system instaled on the shore on the lakes in the Schirmacher oasis, East Antarctica. This data set includes measurements collected by the integrated CO2 and H2O open-path gas analyzer and 3-D sonic anemometer (Irgason by Campbell Scientific. The Irgason is measured an absolute carbon dioxide and water vapor densities, three-dimensional wind speed, sonic air temperature, air temperature and barometric pressure (auxiliary sensor). The auxiliary sensors are Vaisala PTB110 as an optional enhanced barometer, and temperature sensor by Beta Therm 100K6A1A Thermistor. The post-processing procedure is described in Potes et al., (2017).
-List of the variables in the dataset:
+## List of the variables in the dataset:
 Date Time, is the time stamp (TS) with the format “yy/mm/dd HH:MM:SS”
 npoints, is number of measurements
 u_starr (m/s), taur Kg(m s^2) are u_star and momentum flux
@@ -21,7 +21,6 @@ Temp_amb (C), Amb_Press (kPa), are ambient air temperature and atmospheric press
 wind_speed (m/s), wind dir_sonic (degree), are wind speed and direction;
 obukhov (m), zeta (arb), rou (m), sigmaw_ustar (arb), are Obuhkov length, stability parameter, roughness;
 Xmax (m), XR90 (m), are 90% of footprint (m) and maximum of footprint (m).
-
 
 ### The bulk mass transfer method (T. Vihma)
 MTC.CSV : The data include the daily time series of the air temperature (at, C), wind speed (ws, ms-1), atmosheric pressure (ap, Pa) and H2O concentration (h2o, g sm-3). These variables are measured at height of 2 m, and I have used them to calulate the specific humidity (sp, Pa):
