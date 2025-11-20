@@ -6,3 +6,6 @@ Summertime evaporation over two glacial lakes in the Schimacher oasis (SA), East
 
 ## Methods
 E_direct_method.R contains the code processing the EC fluxes following (Potes et al., 2017). E_indirect_methods.R codes the processing of the daily evaporation with the bulk-aerodynamic methods and combination formulas (Shevnina et 2022).  
+
+## Results
+ECH_ZB/GL.csv and BA_daily_ZB/GL.csv given the daily evaporation estimated after the EC techique and indirect methods.
